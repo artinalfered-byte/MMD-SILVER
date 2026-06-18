@@ -6,9 +6,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "e6189ae2054c203b",
-        "key": "mmdsilver",
-        "expirydate": "31-12-2026",
-        "Allowoffline": false
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
